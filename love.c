@@ -2,6 +2,6 @@
 void main()
 { 
 printf("Kate fall in love Jennie.\n");
-printf("Gun fall in love Cherprang.\n");
+printf("Gun love Kate so much.\n");
  printf("Annyeong\n");
 }
